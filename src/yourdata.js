@@ -6,7 +6,7 @@ import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import databaseIcon from "./images/database.png"
-import pythonIcon from "/.images/python.png/"
+import pythonIcon from "/.images/python.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
