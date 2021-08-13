@@ -10,7 +10,8 @@ const Promotion = () => {
           <Fade bottom cascade>
             <h1>{data.promotionHeading}</h1>
           </Fade>
-          <p>{data.promotionPara}</p>
+          <p>{data.promotionParaOne}</p>
+          <p>{data.promotionParaTwo}</p>
         </div>
       </div>
     </div>
