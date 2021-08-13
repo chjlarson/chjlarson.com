@@ -4,14 +4,14 @@ import cssIcon from "./images/css.svg"
 //import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
-import codeIcon from "./images/code.svg"
+//import codeIcon from "./images/code.svg"
 import databaseIcon from "./images/database.png"
 import pythonIcon from "./images/python.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
 import linkedinIcon from "./images/linkedin.svg"
-import dribbbleIcon from "./images/dribbble.svg"
+//import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
 //work Pictures
@@ -159,23 +159,17 @@ export default {
       para:
         "UI/UX Design: Intermediate, 2017 * Present",
     },
-    {
-    
-    },
-    {
-      img: codeIcon,
-      para:
-        "Front-end Development: Intermediate, 2017 - Present",
-    },
   ],
 
   // End Skills Section --------------------------
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
-  promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  promotionHeading: "Other Skills",
+  promotionParaOne:
+    "Interpersonal Skills: Leadership, Customer Service",
+  promotionParaTwo:
+    "Other Tools: C#, .Net, jQuery, Git, Google Analytics",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -188,10 +182,6 @@ export default {
     {
       img: linkedinIcon,
       url: "https://www.linkedin.com/in/chjlarson/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
     },
     {
       img: instagramIcon,
