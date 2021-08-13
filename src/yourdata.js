@@ -1,10 +1,11 @@
 // Skills Icons
 import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
-import reactIcon from "./images/react.svg"
+//import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import databaseIcon from "./images/database.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -18,7 +19,7 @@ import freeman from "./images/freeman-center.png"
 import tranHealthImg from "./images/2018-hss-2.jpg"
 import oldMain from "./images/oldmain_2560.jpg"
 import rcCar from "./images/rcCar.jpg"
-import budgety from "./images/budgety.png"
+import budgety from "./images/Budgety.png"
 
 
 export default {
@@ -130,22 +131,22 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Advanced, 2013 - Present: I have been working within web development since my freshamn year in college back in 2013. HTML was one of the first languages I learned and I still use it to this day!",
+        "Advanced, 2013 - Present",
     },
     {
       img: cssIcon,
       para:
-        "Advanced 2013 - Present: CSS was a natural step from HTML and I use it regularly!",
+        "Advanced 2013 - Present",
     },
     {
       img: jsIcon,
       para:
-        "Intermediate, 2013- Present: JavaScript exploded from what I originally learned in 2013, so I don't think it is fair to say I know even most of what it can do but I can say I can say I use it regularly in my career. ",
+        "Intermediate, 2013 - Present",
     },
     {
-      img: reactIcon,
+      img: databaseIcon,
       para:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "Advanced 2015 - Present",
     },
     {
       img: designIcon,
