@@ -160,6 +160,10 @@ export default {
         "UI/UX Design: Intermediate, 2017 * Present",
     },
     {
+      img:"",
+      para:"",
+    },
+    {
       img: codeIcon,
       para:
         "Front-end Development: Intermediate, 2017 - Present",
