@@ -6,6 +6,7 @@ import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import databaseIcon from "./images/database.png"
+import pythonIcon from ".images/python.png/"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -131,32 +132,37 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Advanced, 2013 - Present",
+        "HTML5: Advanced, 2014 - Present",
     },
     {
       img: cssIcon,
       para:
-        "Advanced 2013 - Present",
+        "CSS: Advanced, 2014 - Present",
     },
     {
       img: jsIcon,
       para:
-        "Intermediate, 2013 - Present",
+        "JavaScript: Intermediate, 2014 - Present",
     },
     {
       img: databaseIcon,
       para:
-      "Advanced 2015 - Present",
+        "SQL: Advanced, 2015 - Present",
+    },
+    {
+      img: pythonIcon,
+      para:
+        "Python: Advanced, 2013 - Present",
     },
     {
       img: designIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "UI/UX Design: Intermediate, 2017 * Present",
     },
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Front-end Development: Intermediate, 2017 - Present",
     },
   ],
 
