@@ -18,7 +18,7 @@ import freeman from "./images/freeman-center.png"
 import tranHealthImg from "./images/2018-hss-2.jpg"
 import oldMain from "./images/oldmain_2560.jpg"
 import rcCar from "./images/rcCar.jpg"
-import budgety from "./images/budgety.png"
+import budgety from "./images/Budgety.png"
 
 
 export default {
