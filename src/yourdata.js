@@ -23,7 +23,7 @@ import rcCar from "./images/rcCar.jpg"
 import budgety from "./images/Budgety.png"
 
 //personal Photo
-import chrisEmma from "./images/chris+emma.jpg"
+import chrisEmma from "./images/chris-emma.jpg"
 
 
 export default {
