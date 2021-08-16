@@ -22,6 +22,9 @@ import oldMain from "./images/oldmain_2560.jpg"
 import rcCar from "./images/rcCar.jpg"
 import budgety from "./images/Budgety.png"
 
+//personal Photo
+import chrisEmma from "./images/chris+emma.jpg"
+
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -120,7 +123,7 @@ export default {
   aboutParaThree:
     "Being a good parent is always going to be #1 on my priority list, without a doubt! I am a strong believer in conintuous learning and giving without getting anything in return. I go out of my way to improve myself mentally and physically, but also make sure to support those I surround myself with and give back to the communities that helped support me. When I'm not spending time with my daughter or working on improving myself and my development skills, I'm absored into fun projects! I rehab rental properties, build robots, tinker with my car, convert a sprinter van into an RV, create and print 3D models, among a number of other things. ",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    chrisEmma,
 
   //   End About Section ---------------------
 
