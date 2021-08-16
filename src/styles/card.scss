@@ -10,7 +10,6 @@
   background-position: center;
 
   .content {
-    
     font-family: "Open Sans";
     text-align: center;
     padding: 10px;
@@ -35,8 +34,7 @@
       text-decoration: none;
     }
     &:hover {
-      background-color: black;
-      opacity: 95%;
+      opacity: 1;
       transform: translate(0, 0px);
     }
   }
