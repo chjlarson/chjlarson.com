@@ -119,9 +119,9 @@ export default {
   aboutParaOne:
     "Investor. Philanthropist. Concert Lover. Art Collector. Avid animal lover/owner of small Zoo that includes a cat, dog, toddler, turtle, tortoises, and various plants",
   aboutParaTwo:
-    "I am an empathetic leader and a strong communicator personable enough to work along side my colleagues to work out plans to reach our desired outcomes. ",
+    "I am an empathetic leader and a strong communicator personable enough to work alongside my colleagues to work out plans to reach our desired outcomes.",
   aboutParaThree:
-    "Being a good parent is always going to be #1 on my priority list, without a doubt! I am a strong believer in conintuous learning and giving without getting anything in return. I go out of my way to improve myself mentally and physically, but also make sure to support those I surround myself with and give back to the communities that helped support me. When I'm not spending time with my daughter or working on improving myself and my development skills, I'm absored into fun projects! I rehab rental properties, build robots, tinker with my car, convert a sprinter van into an RV, create and print 3D models, among a number of other things. ",
+    "Being a good parent is always going to be #1 on my priority list, without a doubt! I am a strong believer in continuous learning and giving without getting anything in return. I go out of my way to improve myself mentally and physically, but also make sure to support those I surround myself with and give back to the communities that helped support me. When I'm not spending time with my daughter or working on improving myself and my development skills, I'm absorbed into fun projects! I rehab rental properties, build robots, tinker with my car, convert a sprinter van into an RV, create and print 3D models, among several other things.",
   aboutImage:
     chrisEmma,
 
