@@ -172,7 +172,7 @@ export default {
   promotionParaOne:
     "Interpersonal Skills: Leadership, Customer Service",
   promotionParaTwo:
-    "Other Tools: C#, .Net, jQuery, Git, Google Analytics",
+    "Other Tools: C#, .Net, jQuery, Java, Git, Google Analytics",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
