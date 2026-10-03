@@ -1,4 +1,3 @@
-import React from "react"
 import data from "../yourdata"
 
 const Skills = () => {
