@@ -1,6 +1,5 @@
-import React from "react"
 import Card from "./atoms/Card"
-import Fade from "react-reveal/Fade"
+import Fade from "./atoms/Fade"
 
 import data from "../yourdata"
 

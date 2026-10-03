@@ -1,5 +1,4 @@
-import React from "react"
-import Fade from "react-reveal/Fade"
+import Fade from "./atoms/Fade"
 import data from "../yourdata"
 
 const Header = () => {
